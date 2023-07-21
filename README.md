@@ -21,7 +21,6 @@
      </div> <br> <br> <br> <br>
   
 <h1 align="center"> Redes Sociais</h1>
-  <div align="center">
   <a href="https://instagram.com/anazxs_06" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
@@ -30,17 +29,17 @@
   
   <a href="https://www.linkedin.com/in/ana-melo-918450268/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+
 <br>
 <center>
 <div>
   
  <h1>Outros Softwares</h1>
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
-    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
-    ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat-square&logo=trello&logoColor=blue)
-    [![Xamp Badge](https://img.shields.io/badge/Xampp-F37623?style=social-square&logo=xampp&logoColor=white)]()
+ <img align="center" height="26" width="80" alt="git-icon" src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git">
+ <img align="center" height="25" width="80" alt="github-icon" src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github"> 
+ <img align="center" height="25" width="80" alt="trello-icon" src="https://img.shields.io/badge/-Trello-333333?style=flat-square&logo=trello&logoColor=blue"> 
+ <img align="center" height="25" width="80" alt="xamp-icon" src="https://img.shields.io/badge/Xampp-F37623?style=social-square&logo=xampp&logoColor=white">
 </div>
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
