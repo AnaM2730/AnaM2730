@@ -1,6 +1,6 @@
 ### Oiii eu sou a Ana Júlia 🤠, e sou desenvolvedora Web!
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
-- 🔭 Estou Disposta para cooperações com projetos voltados a Desenvolvimento Web;
+- 🔭 Estou Disposta para cooperações com projetos voltados a Desenvolvimento Web; <br>
 - 📌 "Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema."
   <br> <br> 
 <div>
