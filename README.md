@@ -10,7 +10,7 @@
 <div  align="center"> 
   <div style="display: inline_block">
    <br>
-    <img align="left" height="350" alt="coding" src="https://images.app.goo.gl/bqNy2DreFWhz9pKr7">
+    <img align="left" height="350" alt="coding" src="https://github.com/AnaM2730/AnaM2730/assets/107368074/718aa346-61d2-461b-bf7a-0cfe394e435d">
   <br>
     <h1 align="center">Linguagens</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
