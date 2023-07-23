@@ -2,14 +2,14 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
 - 🔭 Estou Disposta para cooperações com projetos voltados a Desenvolvimento Web; <br>
 - 📌 "Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema."
-  <br> <br> 
+  <br> <br> <br>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaM2730&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaM2730&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <div align="center"> 
   <div style="display: inline_block">
-   <br>
+   <br>   <br> <br> <br>
     <img align="left" height="250" alt="coding" src="https://github.com/AnaM2730/AnaM2730/assets/107368074/718aa346-61d2-461b-bf7a-0cfe394e435d">
   <br> <br> <br>
     <h1 align="center">Linguagens</h1>
