@@ -40,10 +40,9 @@
  <img align="center" height="26" width="80" alt="git-icon" src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git">
  <img align="center" height="25" width="80" alt="github-icon" src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github"> 
  <img align="center" height="25" width="80" alt="trello-icon" src="https://img.shields.io/badge/-Trello-333333?style=flat-square&logo=trello&logoColor=blue"> 
- <img align="center" height="25" width="80" alt="xamp-icon" src="https://img.shields.io/badge/Xampp-F37623?style=social-square&logo=xampp&logoColor=white">
 </div>
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
 </center>
 
-![Totoro](animated-line-image-0429.gif) 
+![Totoro](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azU4dGRhMmt2bWxldGtxcnRhdHhpdmZtaDBtaHh0cjE5d24wbHBreiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/BRN2Xi0MqnjjO/giphy.gif) 
