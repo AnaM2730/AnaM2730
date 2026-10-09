@@ -1,6 +1,6 @@
-### Oiii, eu sou a Ana Júlia e sou desenvolvedora Web! 🤠
+### Oiii, eu sou a Ana Júlia e sou Analista de Infraestrutura! 🤠
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
-- 🎈 Estou Disposta para cooperações com projetos voltados a Desenvolvimento Web; <br>
+- 🎈 Estou Disposta para cooperações; <br>
 - 📌 "Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema."
   <br> <br> <br>
 <div>
@@ -46,4 +46,4 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
 </center>
 
-![Snake animation](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg) 
+![Totoro](animated-line-image-0429.gif) 
