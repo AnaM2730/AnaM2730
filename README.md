@@ -10,19 +10,23 @@
 <div align="center"> 
   <div style="display: inline_block">
    <br>   <br> <br> <br>
-    <img align="left" height="250" alt="coding" src="https://github.com/AnaM2730/AnaM2730/assets/107368074/718aa346-61d2-461b-bf7a-0cfe394e435d">
-  <br> <br> <br>
+    <img align="left" height="250" alt="coding" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHQwdzZ6aTRmcnZsbndjcnZkNXhjeHVnYWk1MnZqeWI0a3VpM3hkdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13cswZEvNJM7ZK/giphy.gif">
+    <div align="center2"> 
+    <div style="display: inline-block">
+    <img align="right" height="250" alt="coding2" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3lnZHJoN2pwbWoyN2g5OGVzZDUzZnA3cXo4MnhwbHE2MTc0bncwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oK257YkUTwuWc/giphy.gif">
+    </div>
+    
+  <br> <br> <br> <br>  <br> <br> <br> <br>  <br> <br> <br> <br>
     <h1 align="center">Linguagens</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-     </div> <br> <br> <br> <br>
-  
+     </div> <br> 
+    
 <h1 align="center"> Redes Sociais</h1>
-  <a href="https://instagram.com/anadm_04" target="_blank">
+  <a href="https://www.instagram.com/_elevate.visuals/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   <a href = "mailto:meloanajulia30@gmail.com">
@@ -34,15 +38,14 @@
 <br>
 <center>
 <div>
-  
+ <!--  <br>
  <h1>Outros Softwares</h1>
-
  <img align="center" height="26" width="80" alt="git-icon" src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git">
  <img align="center" height="25" width="80" alt="github-icon" src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github"> 
- <img align="center" height="25" width="80" alt="trello-icon" src="https://img.shields.io/badge/-Trello-333333?style=flat-square&logo=trello&logoColor=blue"> 
 </div>
-<br>
+<br> -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
 </center>
-
+<br>
+  
 ![Totoro](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azU4dGRhMmt2bWxldGtxcnRhdHhpdmZtaDBtaHh0cjE5d24wbHBreiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/BRN2Xi0MqnjjO/giphy.gif) 
